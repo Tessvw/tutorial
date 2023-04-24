@@ -1,3 +1,3 @@
 # tutorial
 tutorial
-ki
+slay
